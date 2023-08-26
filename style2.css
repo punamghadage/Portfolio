@@ -1,0 +1,41 @@
+*{
+    
+    margin: 0;
+    padding :0;
+    box-sizing: border-box;
+
+}
+body
+{
+background : #524d4d
+}
+.form-box
+{  
+    color: #fff;
+    text-align: center;
+    margin-top: 30px;
+   
+}
+.input-group input
+{
+
+width: 50%;
+border: 0;
+
+outline: none !important;
+padding: 10px;
+margin-left: 400px;
+margin-top: 10px;
+display: inline-block;
+background: #fff;
+}
+.text-area textarea
+{
+    margin-left: 100px;
+    width: 40%;
+    border: 0;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #fff;
+}
